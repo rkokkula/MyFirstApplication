@@ -1,3 +1,3 @@
-# MyFirstApplication
+# MyFirstAndroidApplication
 
-This is simple Hello World Android Application
+This is simple Hello World Android Application with constraint layout
